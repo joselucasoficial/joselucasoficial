@@ -22,10 +22,6 @@ JS | HTML | CSS | BOOTSTRAP | REACT | VUE | ANGULAR | GIT
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joselucasoficial)](https://github.com/joselucasoficial)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/zezin/)]( https://www.linkedin.com/in/zezin/)
-
-
-
 - Thanks for visiting.
 
 - Enjoy it!! o/
