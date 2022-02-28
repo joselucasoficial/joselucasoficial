@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning :
-JS | HTML | CSS | BOOTSTRAP | REACT | VUE | ANGULAR | GIT 
+JAVASCRIPT |JAVA | HTML | CSS | BOOTSTRAP | GIT | MYSQL 
 
 - 📫 How to reach me : 
 - This is my e-mail joselucasoficial@gmail.com
