@@ -8,7 +8,7 @@ JAVASCRIPT |JAVA | HTML | CSS | BOOTSTRAP | GIT | MYSQL
 - This is my e-mail joselucasoficial@gmail.com
 - or my https://www.linkedin.com/in/zezin/.
 
-:computer: I'm Front-End Developer!
+:computer: I'm Full-Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
